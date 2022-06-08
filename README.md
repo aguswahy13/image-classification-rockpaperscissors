@@ -11,12 +11,12 @@ This program recognizes the shape of the hand that makes up scissors, rock, or p
 7. The accuracy of the model is at least 85%.
 8. Can predict images uploaded to Google Colab
 
-## Suggestion for the program
+## Suggestion For The Program
 1. Transfer learning pre-trained model, learning rate, dropout padding stride
 2. Plot for visualization of accuracy and loss and the plot works to find out whether the accuracy/loss results from the model made are overfitting, underfitting or already goodfitting
 3. Dropout to overcome overfitting
 
-## Recommendation for the datasets
+## Recommendation For The Datasets
 Add rock, paper, scissor datasets that not in the green background because when using rock, paper, and scissors image that not in the green background sometimes do the wrong prediction result than it should be
 
 ## Reference
