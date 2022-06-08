@@ -17,7 +17,7 @@ This program recognizes the shape of the hand that makes up scissors, rock, or p
 3. Dropout to overcome overfitting
 
 ## Recommendation For The Datasets
-Add rock, paper, scissor datasets that not in the green background because when using rock, paper, and scissors image that not in the green background sometimes do the wrong prediction result than it should be
+Add rock, paper, scissor datasets that not in the green background because when using rock, paper, and scissors image that not in the green background sometimes do the wrong prediction result than it should be.
 
 ## Reference
 ### Technique
