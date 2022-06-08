@@ -3,13 +3,14 @@ This program recognizes the shape of the hand that makes up scissors, rock, or p
 
 ## Detail process followed by
 1. Program is used on Google Colab
-2. Training data 60% and validation data 40% of the total dataset
+2. Training dataset 60% (1314 sample) and validation dataset 40% (874 sample) of the total dataset
 3. Implement image augmentation (apply more image augmentation)
 4. Using image data generator
 5. Use of callbacks
-6. Model uses a sequential model 
-7. The accuracy of the model is at least 85%.
-8. Can predict images uploaded to Google Colab
+6. Model uses a sequential model
+7. Model training does not exceed 30 minutes
+8. The accuracy of the model is at least 85%.
+9. Can predict images uploaded to Google Colab
 
 ## Suggestion For The Program
 1. Transfer learning pre-trained model, learning rate, dropout padding stride
