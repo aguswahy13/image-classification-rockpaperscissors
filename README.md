@@ -21,7 +21,7 @@ This program recognizes the shape of the hand that makes up scissors, rock, or p
 Add rock, paper, scissor datasets that not in the green background because when using rock, paper, and scissors image that not in the green background sometimes do the wrong prediction result than it should be.
 
 ## Reference
-### Technique
+### A. Technique
 1. Transfer learning pre-trained VGG16 ResNet AlexNet [1](https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/) and [2](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
 2. [Padding dan stride](https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/)
 3. [Learning rate](https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/)
@@ -31,7 +31,7 @@ Add rock, paper, scissor datasets that not in the green background because when 
 7. [Callback](https://keras.io/api/callbacks/)
 8. Image Preprocessing OpenCV [1](https://docs.opencv.org/3.4/d1/dc5/tutorial_background_subtraction.html) and [2](https://www.programmersought.com/article/48501109629/)
 
-### Other
+### B. Other
 1. Augmentasi gambar [1](https://www.kaggle.com/gimunu/data-augmentation-with-keras-into-cnn), [2](https://keras.io/api/preprocessing/image/), and [3](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/)
 2. Split data: [split-folders](https://pypi.org/project/split-folders/), [train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html), and [validation_split](https://keras.io/api/preprocessing/image/)
 3. Underfitting dan Overfitting [1](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) and [2](https://www.youtube.com/watch?v=u2TjZzNuly8.)
